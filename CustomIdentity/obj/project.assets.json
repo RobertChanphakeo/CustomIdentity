@@ -11000,10 +11000,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Projects\\CustomIdentity\\CustomIdentity\\CustomIdentity.csproj",
+      "projectUniqueName": "C:\\Projects\\CustomIdentity\\CustomIdentity\\CustomIdentity.csproj",
       "projectName": "CustomIdentity",
-      "projectPath": "c:\\Projects\\CustomIdentity\\CustomIdentity\\CustomIdentity.csproj",
-      "outputPath": "c:\\Projects\\CustomIdentity\\CustomIdentity\\obj\\",
+      "projectPath": "C:\\Projects\\CustomIdentity\\CustomIdentity\\CustomIdentity.csproj",
+      "outputPath": "C:\\Projects\\CustomIdentity\\CustomIdentity\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
